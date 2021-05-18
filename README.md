@@ -1,5 +1,5 @@
 # ETF-Web-Scraper
-Scrape ETF Holdings
+**VERSION 1** Scrape ETF Holdings
 
 ## Dependencies
 
