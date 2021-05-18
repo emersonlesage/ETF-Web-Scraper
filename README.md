@@ -15,7 +15,8 @@ Scrape ETF Holdings
   
 ## Example Output
 
-Openeing the browser...
+`Openeing the browser...
+
 Navigating to https://marketsandresearch.td.com/tdwca/Public/ETFsProfile/Summary/ca/VFV?addRecent=true...
 
 [
@@ -36,4 +37,4 @@ Navigating to https://marketsandresearch.td.com/tdwca/Public/ETFsProfile/Summary
   { text: 'Latin America', value: '0' },
   { text: 'Canada', value: '0' },
   { text: 'Europe', value: '0' }
-]
+]`
