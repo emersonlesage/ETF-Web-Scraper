@@ -17,6 +17,7 @@ Scrape ETF Holdings
 
 Openeing the browser...
 Navigating to https://marketsandresearch.td.com/tdwca/Public/ETFsProfile/Summary/ca/VFV?addRecent=true...
+
 [
   { text: 'US Equity', value: '98.9%' },
   { text: "Int'l Equity", value: '1.1%' },
